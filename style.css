@@ -4,8 +4,12 @@ body{
     font-family: "Epunda Slab", serif;
 }
 header{
-    font-size: 26px;
+    font-size: 20px;
+    border: dotted  5px rgb(189, 243, 223);
 }
 h1{
     font-size: 50px;
+}
+p{
+    font-size: 23px;
 }
