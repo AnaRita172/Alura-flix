@@ -2,13 +2,19 @@ body{
     background-color: rgb(30, 149, 234);
     color: rgb(24, 249, 133);
     font-family: "Epunda Slab", serif;
+    margin: 0px;
 }
 header{
     font-size: 20px;
     border: dotted  5px rgb(189, 243, 223);
+    text-align: center;
+   /* margin:30px;*/
+    padding: 8px;
 }
 h1{
     font-size: 50px;
+    border-bottom: dotted 7px  rgb(189, 243, 223);
+    margin: 15px;
 }
 p{
     font-size: 23px;
