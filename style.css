@@ -10,6 +10,7 @@ header{
     text-align: center;
    /* margin:30px;*/
     padding: 8px;
+    color: rgb(151, 231, 122);
 }
 h1{
     font-size: 50px;
@@ -18,4 +19,12 @@ h1{
 }
 p{
     font-size: 23px;
+}
+
+section{
+background-color: rgb(30, 149, 234);
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+
 }
